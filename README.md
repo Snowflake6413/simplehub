@@ -8,9 +8,15 @@ A simple USB hub for Fallout
 
 It features 2 USB C ports, 2 USB A ports for connections and one USB C port for power.
 
+## Final Product
+![the thing](https://cdn.hackclub.com/019d498d-0655-7202-9bc9-490a7672a892/image.png)
+
+## 3D PCB View
+![3d pcb](https://cdn.hackclub.com/019d498e-d73c-758f-a6af-d78a36b49586/image.png)
+
 # Software used:
-EasyEDA (eww)
-Fusion360
+* EasyEDA (eww)
+* Fusion360
 
 # Schematics / PCB
   Schematics              |      PCB
