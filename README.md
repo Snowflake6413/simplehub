@@ -4,10 +4,14 @@
 I used a [tutorial](https://fallout.hackclub.com/docs/guided-projects/usb-hub) to make this USB hub.
 
 
-A simple USB hub for Fallout
+A simple USB hub for me.
 
-It features 2 USB C ports, 2 USB A ports for connections and one USB C port for power.
-
+Features!
+* 3 USB C ports ( 1 for power, 2 for connections)
+* 2 USB A ports
+* 3D printed case
+* Some flair
+  
 ## Final Product
 ![the thing](https://cdn.hackclub.com/019d498d-0655-7202-9bc9-490a7672a892/image.png)
 
