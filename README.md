@@ -4,6 +4,10 @@
 I used a [tutorial](https://fallout.hackclub.com/docs/guided-projects/usb-hub) to make this USB hub.
 
 
+
+<img width="1410" height="2000" alt="zineSimpleHub" src="https://github.com/user-attachments/assets/6c19e77a-6d65-485d-b8c8-f3b0e189a9f7" />
+
+
 A simple USB hub for me.
 
 Features!
