@@ -15,7 +15,19 @@ Features!
 * 2 USB A ports
 * 3D printed case
 * Some flair
-  
+
+## Why? Why not buy a hub from Amazon?
+It's too expensive on Amazon to buy a hub! And I want to learn some hardware experience by wiring, designing the schematics and show other people how such I am a "DIY" pro.
+
+## How to build this?
+Well first, you need a JLCPCB account. And you will need a way to get the case printed. You can use Google to look up a list of providers that will 3D print the cases.
+
+I recommended you download the gerber file and upload it to the JLCPCB website and order the PCBA.
+
+## How to use..?
+Fairly simply, connect the USB C on the left side (the port with the power icon on the case!) to a device (e.g Laptop) and then you plug your peripherals to the USBs (2 of them on each side!)
+
+
 ## Final Product
 ![the thing](https://cdn.hackclub.com/019d498d-0655-7202-9bc9-490a7672a892/image.png)
 
@@ -52,6 +64,12 @@ Features!
 | USB C to USB C     | 1        | $4.28 USD  | [AliExpress](https://www.aliexpress.us/item/3256806347706589.html) |
 
 **Total Cost:** $48.51 USD
+
+[JLCPCB PCBA BoM](bom/JLCPCB_BoM_PCBA.csv)
+[Regular BoM](bom/BoM_SimpleHub.csv)
+
+### Side note on the USB cables:
+I dont have much cables at home, so I want to buy them (USB-A!!!). :pray:
 
 ### Side note on the 3D print stuff:
 I don't know how much the shipping will be for the 3D case (approx $10 USD?)
